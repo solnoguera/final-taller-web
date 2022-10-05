@@ -1,0 +1,15 @@
+.bordes {
+  border-color: red;
+  border-width: 8px;
+  border-style: dotted none solid dashed;
+}
+
+.contenedor {
+  width: 400px;
+  height: 64px;
+  line-height: 0;
+}
+
+.contenedor > p {
+  font-size: medium;
+}
